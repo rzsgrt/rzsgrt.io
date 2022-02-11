@@ -9,7 +9,7 @@ name: Learning Blog
 author: Reza Sugiarto
 
 # Short bio or description (displayed in the header)
-description: Online journal for my learning
+description: Keeping what i learn 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -20,18 +20,18 @@ avatar: /images/reverie.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  # dribbble:
   email: reza16.sugiarto@gmail.com
   # facebook:
   # flickr:
   github: rzsgrt
-  instagram:
-  linkedin: 
-  pinterest:
-  rss: rss
+  # instagram:
+  linkedin: reza-sugiarto
+  # pinterest:
+  # rss: rss
   twitter: rzsgrt
   # stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  # youtube: # channel/<your_long_string> or user/<user-name>
   # googleplus: # anything in your profile username that comes after plus.google.com/
   # playconsole:
 
