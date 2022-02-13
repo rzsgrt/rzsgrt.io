@@ -4,26 +4,15 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, I'm Reza and currently I work as Machine Learning Engineer. In high level, it means I work from data collection, build-train model and prepare deployment (in another terms, end-to-end machine learning/data scientist). For more about my working experience, you can go to my [linkedin page](https://www.linkedin.com/in/reza-sugiarto/).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+If you find and wonder what this blog about, this blog meant to record everything I learned. So my post will range from one line linux command post to one long paper summary (hopefully). Aaanndd if you learn something from this blog, please take it with a grain of salt. I hope I can provide with reputable source so you can check to original source.
 
-## Features
+In case you need to discuss something with me, you can find me at
+ - [twitter](https://twitter.com/rzsgrt) (usually just RT'ing other researcher)
+ - [linkedin page](https://www.linkedin.com/in/reza-sugiarto/)
+ - [email](mailto:reza16.sugiarto@gmail.com)
+ - Apex (usually I use revenant or valkyrie)
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Thanks for your visit!
