@@ -31,7 +31,7 @@ repeat(hello_world)
 
 Output:
 
-```output
+```bash
 >> hello world!
 >> hello world!
 ```
@@ -59,7 +59,7 @@ hello_world()
 
 output
 
-```output
+```bash
 >> hello world!
 >> print another word
 >> hello world!
@@ -105,7 +105,7 @@ hello_world("Reza")
 
 Output:
 
-```output
+```bash
 Hello Reza!
 ```
 
@@ -185,7 +185,7 @@ class User:
         self.bio = bio
 ```
 
-Now what if we want to make decorator from class? Well first, the principle still same with decorator for function. but now we need to pass `func` to class and implement method `__call__`
+Now what if we want to make decorator from class? Well first, the principle still same with decorator for function. but now we need to pass **`func`** to class and implement method **`__call__`**
 
 ```python
 import functools
@@ -216,6 +216,6 @@ Source:
 - A Gentle Introduction to Decorators in Python [link](https://machinelearningmastery.com/a-gentle-introduction-to-decorators-in-python/)  
 - Decorator Design Pattern [link](https://sourcemaking.com/design_patterns/decorator)  
 - Python Decorators [link](https://www.scaler.com/topics/python/python-decorators/)  
-- Built-in Functions [link] (https://docs.python.org/3/library/functions.html)
+- Built-in Functions [link](https://docs.python.org/3/library/functions.html)
 - classmethod() in python [link](https://www.geeksforgeeks.org/classmethod-in-python/)
 - Data Classes [link](https://docs.python.org/3/library/dataclasses.html)
