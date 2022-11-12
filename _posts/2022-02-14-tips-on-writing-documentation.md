@@ -7,7 +7,7 @@ As a developer, writing documentation is tedious task because it's easy to get w
 
 1. Start with what reader needs.
 Start by answering, what readers need to know? What information that readers need in order to help them solve their job?
-For example, reader (our new colleague) need to know how to use a internal tools that been used by our team or know how our past project looks like.
+For example, reader (our new colleague) need to know how to use a internal tools that been used by our team or know how our past project looks like or simply to reproduce on local.
 
 2. Write less.
 Write less. We don't need to write a long documentation. This is relevant with point 1. We need to answer, do our user need this context? or do our user need this really detail one command cli? Long documentation also means a lot of part that need to be maintaned. If you write a long documentation, and you can't maintain it some part will outdated. And outdated documentation is either not useful or can lead to wrong action.
@@ -19,7 +19,7 @@ Start with answering question that mentioned above. Write all things needed by r
 This point not speccific to write documentation. But it'll help writing process. This will help because sometimes it's easy to explain in verbal rather than write and documentation doesn't need to be in formal writing sytle.
 
 5. Write readably.
-Since we want to make our reader job easy, we need to write something that also easy to follow. Writing with 5 point bullet will be easier to follow compare to one long paragraph. Write documentation with instruction language compare to general information. For example, one bullet point saying: Execute command A and expect result B compare to "you can expect result B if you execute command A". This also apply to header. Instead of saying "Custom code generation", we can say "Writing a code generator". On the second header, user already know what they will found in this section.
+Since we want to make our reader job easy, we need to write something that also easy to follow. Writing with 5 point bullet will be easier to follow compare to one long paragraph. Write documentation with instruction language compare to general information. For example, one bullet point saying: Execute command A and expect result B compare is better than "you can expect result B if you execute command A". This also apply to header. Instead of saying "Custom code generation", we can say "Writing a code generator". On the second header, user already know what they will found in this section.
 
 6. Don't write documentation to fix problem.
 If you write documentation to fix problem, then you shouldn't write documentation. You need to fix that problem.
